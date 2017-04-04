@@ -1,2 +1,2 @@
 # networkanddeeplearning-bookcode
-this is ac code from https://github.com/ltcxjtu/networkanddeeplearning-bookcode
+this is a code from https://github.com/ltcxjtu/networkanddeeplearning-bookcode
